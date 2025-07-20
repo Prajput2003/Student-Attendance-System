@@ -13,12 +13,12 @@ This PHP attendance system project focuses mainly on managing student attendance
 * password: Pass123
 
 #
-![Screenshot (01)](https://user-images.githubusercontent.com/36708000/173136998-4de6eccc-377f-419e-83b6-e767503bbb5d.png)
+![Screenshot (01)](https://github.com/Prajput2003/Student-Attendance-System/blob/b5d5608dbb659649e82010f10d891f58da88e28a/ss-1.png)
 #
-![Screenshot (02)](https://user-images.githubusercontent.com/36708000/173137041-69d68213-077d-4362-bd4e-cfba5a6b2202.png)
+![Screenshot (02)](https://github.com/Prajput2003/Student-Attendance-System/blob/b5d5608dbb659649e82010f10d891f58da88e28a/ss-2.png)
 #
-![Screenshot (03)](https://user-images.githubusercontent.com/36708000/173137057-5aad5420-7689-4d5e-aae0-df796154e993.png)
+![Screenshot (03)](https://github.com/Prajput2003/Student-Attendance-System/blob/b5d5608dbb659649e82010f10d891f58da88e28a/ss-3.png)
 #
-![Screenshot (04)](https://user-images.githubusercontent.com/36708000/173137075-81d7b66e-a5cc-4228-ab14-cecc465701d7.png)
+![Screenshot (04)](https://github.com/Prajput2003/Student-Attendance-System/blob/b5d5608dbb659649e82010f10d891f58da88e28a/ss-4.png)
 
 
